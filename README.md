@@ -6,12 +6,12 @@
 
 ## Description
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| Behavior: should handle           |  Input    | Output|
+| --------------------------------- |:---------:| -----:|
+| A year that is not a leap year    | 1993      | false |
+| A year that is divisible by 4     | 2004      | true  |
+| A year that is divisible by a 100 | 1900      | false |
+| A year that is divisible by 400   | 2000      | true  |
 
 ## Setup/Installation Requirements
 
@@ -23,18 +23,18 @@
 
 ## Known Bugs
 
-__
+__none__
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Contact Russ Vetsper or and Rouz Majlessi_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Html, CSS, JavaScript, jQuery Bootstrap,_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 
 Copyright (c) 2016 **_{List of contributors or company name}_**
